@@ -82,9 +82,18 @@ We welcome contributions! 🎉 If you want to improve the project, feel free to:
 
 ## Screenshots
 
-Screenshot-1
-Screenshot-2
-Screenshot-3
+## Screenshots
+### login page
+![Screenshot 1](https://github.com/abhiram-1729/Django-Blog-application/blob/main/media/profile_pics/login%20page.png)
+### register page
+![Screenshot 2](https://github.com/abhiram-1729/Django-Blog-application/blob/main/media/profile_pics/register%20page.png)
+### blog home page
+![Screenshot 3](https://github.com/abhiram-1729/Django-Blog-application/blob/main/media/profile_pics/home%20page.png)
+### profile page
+![Screenshot 3](https://github.com/abhiram-1729/Django-Blog-application/blob/main/media/profile_pics/profile%20page.png)
+### add new blog to individual user page
+![Screenshot 3](https://github.com/abhiram-1729/Django-Blog-application/blob/main/media/profile_pics/new%20post.png)
+
 
 ## Contact
 
