@@ -2,17 +2,15 @@
 
 ## 📌 Table of Contents
 
-📚 Introduction
-✨ Features
-🛠 Technologies Used
-🚀 Getting Started
-📋 Prerequisites
-📌 Usage
-🔒 User Authentication
-📌 Managing Blog Posts
-💪 Next Steps
-💡 Contributing
-📝 License
+* 📚 Introduction
+* ✨ Features
+* 🛠 Technologies Used
+* 📋 Prerequisites
+* 📌 Usage
+* 🔒 User Authentication
+* 📌 Managing Blog Posts
+* 💪 Next Steps
+* 💡 Contributing
 
 ## 📚 Introduction
 
@@ -36,9 +34,6 @@ The Django Blog Application is a full-featured blogging platform that allows use
 *   **Database:** PostgreSQL / SQLite
 *   **Authentication:** Django’s built-in authentication system
 
-## 🚀 Getting Started
-
-To set up and run the blog application on your local machine, follow these steps.
 
 ## 📋 Prerequisites
 
